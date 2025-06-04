@@ -1,11 +1,11 @@
 
-# 🎵 Spotify Top 50 Brasil Analysis
+🎵 Spotify Top 50 Brasil Analysis
 
 Análise exploratória e visual dos dados das 50 músicas mais populares do Brasil segundo o Spotify. O projeto visa entender padrões musicais, identificar artistas e gêneros predominantes e construir um modelo preditivo leve com base em características como danceabilidade, energia e popularidade.
 
 ---
 
-## 📁 Estrutura do Projeto
+ 📁 Estrutura do Projeto
 
 ```
 spotify-top-brasil-analysis/
@@ -27,7 +27,7 @@ spotify-top-brasil-analysis/
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+🔧 Tecnologias Utilizadas
 
 - Python 3.10+
 - Jupyter Notebook
@@ -38,7 +38,7 @@ spotify-top-brasil-analysis/
 
 ---
 
-## 🚀 Como Executar
+ 🚀 Como Executar
 
 1. Clone o repositório:
    ```bash
@@ -66,22 +66,7 @@ spotify-top-brasil-analysis/
    jupyter notebook notebooks/spotify_top50_analysis.ipynb
    ```
 
----
-
-## 📊 Visualizações
-
-### 🎤 Artistas com mais músicas no Top 50
-![Artistas Repetidos](images/artistas_repetidos.png)
-
-### 🎧 Gêneros mais populares
-![Gêneros](images/generos_populares.png)
-
-### 🔥 Correlação entre atributos
-![Correlação](images/correlacao_heatmap.png)
-
----
-
-## 🔍 Principais Insights
+🔍 Principais Insights
 
 - Gêneros como Pop, Funk e Sertanejo são predominantes nas 50 músicas mais tocadas.
 - Artistas como **Anitta**, **MC Ryan SP** e **Jorge & Mateus** aparecem mais de uma vez.
@@ -90,7 +75,7 @@ spotify-top-brasil-analysis/
 
 ---
 
-## 📦 Modelo Preditivo
+📦 Modelo Preditivo
 
 O modelo de regressão linear foi treinado para prever a popularidade com base nos seguintes atributos:
 
@@ -102,20 +87,21 @@ Embora simples, o modelo mostrou uma relação razoável entre os dados e o valo
 
 ---
 
-## 👤 Autor
+👤 Autor
 
-**Matheus B. (TeuzB)**  
+**Mateus Barbosa. (TeuzB)**  
 📍 Belo Horizonte, Brasil  
 🔗 [GitHub](https://github.com/TeuzB)
+🔗 [LinkedIn](https://www.linkedin.com/in/mateus-oliveira-535ba2245/)
 
 ---
 
-## 📄 Licença
+📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar, modificar e distribuir com os devidos créditos.
 
 ---
 
-## ⭐ Considerações finais
+⭐ Considerações finais
 
-Este projeto foi desenvolvido com foco em aprendizado de análise de dados, visualização e modelagem preditiva simples. A base de dados limitada a 50 músicas traz restrições estatísticas, mas permite explorar conceitos fundamentais de **Data Science com música** de forma acessível.
+Este projeto foi desenvolvido com foco em aprendizado de análise de dados, visualização e modelagem preditiva simples. A base de dados limitada em relação ao número totais e fixos de músicas traz restrições estatísticas, mas permite explorar conceitos fundamentais de **Data Science com música** de forma acessível.
