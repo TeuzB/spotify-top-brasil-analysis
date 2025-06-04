@@ -16,11 +16,6 @@ spotify-top-brasil-analysis/
 ├── notebooks/                 # Análise em Jupyter Notebook
 │   └── spotify_top50_analysis.ipynb
 │
-├── images/                    # Gráficos e imagens usadas no README
-│   ├── correlacao_heatmap.png
-│   ├── generos_populares.png
-│   └── artistas_repetidos.png
-│
 ├── requirements.txt           # Bibliotecas necessárias
 └── README.md                  # Este arquivo
 ```
