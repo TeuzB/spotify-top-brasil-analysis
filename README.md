@@ -15,6 +15,7 @@ Este projeto tem como objetivo analisar os dados das músicas mais tocadas no Sp
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Scikit-learn
 
 ## ✍️ Autor
 
